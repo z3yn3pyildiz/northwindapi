@@ -8,111 +8,7 @@
       "unitsInStock": 53,
       "name": "Chef Anton's Cajun Seasoning"
     },
-    {
-      "id": 5,
-      "categoryID": 2,
-      "quantityPerUnit": "36 boxes",
-      "unitPrice": 21.35,
-      "unitsInStock": 0,
-      "name": "Chef Anton's Gumbo Mix"
-    },
-    {
-      "id": 6,
-      "categoryID": 2,
-      "quantityPerUnit": "12 - 8 oz jars",
-      "unitPrice": 25,
-      "unitsInStock": 120,
-      "name": "Grandma's Boysenberry Spread"
-    },
-    {
-      "id": 7,
-      "categoryID": 7,
-      "quantityPerUnit": "12 - 1 lb pkgs.",
-      "unitPrice": 30,
-      "unitsInStock": 15,
-      "name": "Uncle Bob's Organic Dried Pears"
-    },
-    {
-      "id": 8,
-      "categoryID": 2,
-      "quantityPerUnit": "12 - 12 oz jars",
-      "unitPrice": 40,
-      "unitsInStock": 6,
-      "name": "Northwoods Cranberry Sauce"
-    },
-    {
-      "id": 9,
-      "categoryID": 6,
-      "quantityPerUnit": "18 - 500 g pkgs.",
-      "unitPrice": "977",
-      "unitsInStock": 29,
-      "name": "Mishi Kobe Niku",
-      "catagoryID": "2"
-    },
-    {
-      "id": 10,
-      "categoryID": 8,
-      "quantityPerUnit": "12 - 200 ml jars",
-      "unitPrice": 31,
-      "unitsInStock": 31,
-      "name": "Ikura"
-    },
-    {
-      "id": 2,
-      "categoryID": 1,
-      "quantityPerUnit": "24 - 12 oz bottles",
-      "unitPrice": 19,
-      "unitsInStock": 17,
-      "name": "Chang"
-    },
-    {
-      "id": 3,
-      "categoryID": 2,
-      "quantityPerUnit": "12 - 550 ml bottles",
-      "unitPrice": 10,
-      "unitsInStock": 13,
-      "name": "Aniseed Syrup"
-    },
-    {
-      "id": 11,
-      "categoryID": 4,
-      "quantityPerUnit": "1 kg pkg.",
-      "unitPrice": 21,
-      "unitsInStock": 22,
-      "name": "Queso Cabrales"
-    },
-    {
-      "id": 12,
-      "categoryID": 4,
-      "quantityPerUnit": "10 - 500 g pkgs.",
-      "unitPrice": 38,
-      "unitsInStock": 86,
-      "name": "Queso Manchego La Pastora"
-    },
-    {
-      "id": 13,
-      "categoryID": 8,
-      "quantityPerUnit": "2 kg box",
-      "unitPrice": 6,
-      "unitsInStock": 24,
-      "name": "Konbu"
-    },
-    {
-      "id": 14,
-      "categoryID": 7,
-      "quantityPerUnit": "40 - 100 g pkgs.",
-      "unitPrice": 23.25,
-      "unitsInStock": 35,
-      "name": "Tofu"
-    },
-    {
-      "id": 15,
-      "categoryID": 2,
-      "quantityPerUnit": "24 - 250 ml bottles",
-      "unitPrice": 15.5,
-      "unitsInStock": 39,
-      "name": "Genen Shouyu"
-    },
+   
     {
       "id": 1,
       "categoryID": 1,
@@ -129,38 +25,7 @@
       "unitsInStock": 29,
       "name": "Pavlova"
     },
-    {
-      "id": 29,
-      "categoryID": 6,
-      "quantityPerUnit": "50 bags x 30 sausgs.",
-      "unitPrice": 123.79,
-      "unitsInStock": 0,
-      "name": "Thüringer Rostbratwurst"
-    },
-    {
-      "id": 30,
-      "categoryID": 8,
-      "quantityPerUnit": "10 - 200 g glasses",
-      "unitPrice": 25.89,
-      "unitsInStock": 10,
-      "name": "Nord-Ost Matjeshering"
-    },
-    {
-      "id": 31,
-      "categoryID": 4,
-      "quantityPerUnit": "12 - 100 g pkgs",
-      "unitPrice": 12.5,
-      "unitsInStock": 0,
-      "name": "Gorgonzola Telino"
-    },
-    {
-      "id": 32,
-      "categoryID": 4,
-      "quantityPerUnit": "24 - 200 g pkgs.",
-      "unitPrice": 32,
-      "unitsInStock": 9,
-      "name": "Mascarpone Fabioli"
-    },
+    
     {
       "id": 33,
       "categoryID": 4,
