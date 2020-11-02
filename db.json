@@ -17,6 +17,95 @@
       "name": "Chef Anton's Gumbo Mix"
     },
     {
+      "id": 6,
+      "categoryID": 2,
+      "quantityPerUnit": "12 - 8 oz jars",
+      "unitPrice": 25,
+      "unitsInStock": 120,
+      "name": "Grandma's Boysenberry Spread"
+    },
+    {
+      "id": 7,
+      "categoryID": 7,
+      "quantityPerUnit": "12 - 1 lb pkgs.",
+      "unitPrice": 30,
+      "unitsInStock": 15,
+      "name": "Uncle Bob's Organic Dried Pears"
+    },
+    {
+      "id": 8,
+      "categoryID": 2,
+      "quantityPerUnit": "12 - 12 oz jars",
+      "unitPrice": 40,
+      "unitsInStock": 6,
+      "name": "Northwoods Cranberry Sauce"
+    },
+    {
+      "id": 9,
+      "categoryID": 6,
+      "quantityPerUnit": "18 - 500 g pkgs.",
+      "unitPrice": "977",
+      "unitsInStock": 29,
+      "name": "Mishi Kobe Niku",
+      "catagoryID": "2"
+    },
+    {
+      "id": 10,
+      "categoryID": 8,
+      "quantityPerUnit": "12 - 200 ml jars",
+      "unitPrice": 31,
+      "unitsInStock": 31,
+      "name": "Ikura"
+    },
+    {
+      "id": 2,
+      "categoryID": 1,
+      "quantityPerUnit": "24 - 12 oz bottles",
+      "unitPrice": 19,
+      "unitsInStock": 17,
+      "name": "Chang"
+    },
+    {
+      "id": 3,
+      "categoryID": 2,
+      "quantityPerUnit": "12 - 550 ml bottles",
+      "unitPrice": 10,
+      "unitsInStock": 13,
+      "name": "Aniseed Syrup"
+    },
+    {
+      "id": 11,
+      "categoryID": 4,
+      "quantityPerUnit": "1 kg pkg.",
+      "unitPrice": 21,
+      "unitsInStock": 22,
+      "name": "Queso Cabrales"
+    },
+    {
+      "id": 12,
+      "categoryID": 4,
+      "quantityPerUnit": "10 - 500 g pkgs.",
+      "unitPrice": 38,
+      "unitsInStock": 86,
+      "name": "Queso Manchego La Pastora"
+    },
+    {
+      "id": 13,
+      "categoryID": 8,
+      "quantityPerUnit": "2 kg box",
+      "unitPrice": 6,
+      "unitsInStock": 24,
+      "name": "Konbu"
+    },
+    {
+      "id": 14,
+      "categoryID": 7,
+      "quantityPerUnit": "40 - 100 g pkgs.",
+      "unitPrice": 23.25,
+      "unitsInStock": 35,
+      "name": "Tofu"
+    },
+    {
       "id": 15,
       "categoryID": 2,
       "quantityPerUnit": "24 - 250 ml bottles",
@@ -39,78 +128,6 @@
       "unitPrice": 17.45,
       "unitsInStock": 29,
       "name": "Pavlova"
-    },
-    {
-      "id": 17,
-      "categoryID": 6,
-      "quantityPerUnit": "20 - 1 kg tins",
-      "unitPrice": 39,
-      "unitsInStock": 0,
-      "name": "Alice Mutton"
-    },
-    {
-      "id": 18,
-      "categoryID": 8,
-      "quantityPerUnit": "16 kg pkg.",
-      "unitPrice": 62.5,
-      "unitsInStock": 42,
-      "name": "Carnarvon Tigers"
-    },
-    {
-      "id": 19,
-      "categoryID": 3,
-      "quantityPerUnit": "10 boxes x 12 pieces",
-      "unitPrice": 9.2,
-      "unitsInStock": 25,
-      "name": "Teatime Chocolate Biscuits"
-    },
-    {
-      "id": 20,
-      "categoryID": 3,
-      "quantityPerUnit": "30 gift boxes",
-      "unitPrice": 81,
-      "unitsInStock": 40,
-      "name": "Sir Rodney's Marmalade"
-    },
-    {
-      "id": 24,
-      "categoryID": 1,
-      "quantityPerUnit": "12 - 355 ml cans",
-      "unitPrice": 4.5,
-      "unitsInStock": 20,
-      "name": "Guaraná Fantástica"
-    },
-    {
-      "id": 25,
-      "categoryID": 3,
-      "quantityPerUnit": "20 - 450 g glasses",
-      "unitPrice": 14,
-      "unitsInStock": 76,
-      "name": "NuNuCa Nuß-Nougat-Creme"
-    },
-    {
-      "id": 26,
-      "categoryID": 3,
-      "quantityPerUnit": "100 - 250 g bags",
-      "unitPrice": 31.23,
-      "unitsInStock": 15,
-      "name": "Gumbär Gummibärchen"
-    },
-    {
-      "id": 27,
-      "categoryID": 3,
-      "quantityPerUnit": "100 - 100 g pieces",
-      "unitPrice": 43.9,
-      "unitsInStock": 49,
-      "name": "Schoggi Schokolade"
-    },
-    {
-      "id": 28,
-      "categoryID": 7,
-      "quantityPerUnit": "25 - 825 g cans",
-      "unitPrice": 45.6,
-      "unitsInStock": 26,
-      "name": "Rössle Sauerkraut"
     },
     {
       "id": 29,
@@ -248,8 +265,54 @@
       "unitsInStock": 26,
       "name": "Singaporean Hokkien Fried Mee"
     },
-    
-   
+    {
+      "id": 46,
+      "categoryID": 8,
+      "quantityPerUnit": "4 - 450 g glasses",
+      "unitPrice": 12,
+      "unitsInStock": 95,
+      "name": "Spegesild"
+    },
+    {
+      "id": 47,
+      "categoryID": 3,
+      "quantityPerUnit": "10 - 4 oz boxes",
+      "unitPrice": 9.5,
+      "unitsInStock": 36,
+      "name": "Zaanse koeken"
+    },
+    {
+      "id": 48,
+      "categoryID": 3,
+      "quantityPerUnit": "10 pkgs.",
+      "unitPrice": 12.75,
+      "unitsInStock": 15,
+      "name": "Chocolade"
+    },
+    {
+      "id": 49,
+      "categoryID": 3,
+      "quantityPerUnit": "24 - 50 g pkgs.",
+      "unitPrice": 20,
+      "unitsInStock": 10,
+      "name": "Maxilaku"
+    },
+    {
+      "id": 50,
+      "categoryID": 3,
+      "quantityPerUnit": "12 - 100 g bars",
+      "unitPrice": 16.25,
+      "unitsInStock": 65,
+      "name": "Valkoinen suklaa"
+    },
+    {
+      "id": 51,
+      "categoryID": 7,
+      "quantityPerUnit": "50 - 300 g pkgs.",
+      "unitPrice": 53,
+      "unitsInStock": 20,
+      "name": "Manjimup Dried Apples"
+    }
   ],
   "catagory": [
     {
